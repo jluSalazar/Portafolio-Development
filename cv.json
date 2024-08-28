@@ -1,0 +1,284 @@
+{
+  "basics": {
+    "name": "Jonathan Luciano Salazar Escobar",
+    "label": "Estudiante de Ingeniería de software",
+    "image": "./images/CVPhoto.jpeg",
+    "email": "jonathan282salazar@gmail.com",
+    "phone": "0988215014",
+    "summary": "Soy Jonathan Salazar, estudiante de Ingeniería de Software en la 'Escuela Politécnica Nacional', apasionado por el desarrollo de software. Esta pasión me ha llevado a estudiar y aplicar mis conocimientos, desarrollando habilidades clave a través de proyectos académicos y personales. Me considero una persona sincera y directa, cualidades que me permiten enfrentar y superar desafíos, aprendiendo de cada experiencia para mejorar continuamente en el campo del desarrollo de Software y el trabajo en equipo.",
+    "location": {
+      "address": "La Vicentina",
+      "postalCode": "170112",
+      "city": "Quito",
+      "countryCode": "EC",
+      "region": "Pichincha"
+    },
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "jluSalazar",
+        "url": "https://github.com/jluSalazar"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "Jonathan Salazar",
+        "url": "https://www.linkedin.com/in/jonathan-salazar-862b44275/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "midudev",
+      "position": "Divulgador sobre Programación Web",
+      "url": "https://twitch.tv/midudev",
+      "startDate": "2021-01-01",
+      "endDate": null,
+      "summary": "Streamer de programación más visto en Español en Twitch. +1 millón de seguidores entre todas mis redes sociales. Reconocido por Google, Microsoft y GitHub por mi impacto en la comunidad de desarrolladores.",
+      "highlights": [
+        "Started the company"
+      ]
+    },
+    {
+      "name": "Adevinta",
+      "position": "Lead Frontend Architect",
+      "url": "https://twitch.tv/midudev",
+      "startDate": "2016-06-01",
+      "endDate": "2022-09-01",
+      "summary": "Lideré una convergencia técnica entre diferentes productos y migramos una arquitectura monolítica a otra más flexible y optimizada. Fomenté buenas prácticas y mejoras en la cultura de rendimiento, además de la entrega rápida de valor a los usuarios.",
+      "highlights": [
+        "Started the company"
+      ]
+    },
+    {
+      "name": "Hubii",
+      "position": "Senior FrontEnd Developer",
+      "startDate": "2011-03-01",
+      "endDate": "2016-05-01",
+      "summary": "Desarrollé una plataforma de noticias geolocalizadas y una API para consumir la información. Escalé los servicios para soportar la carga de más de cientos de miles de peticiones al día. Recorté los tiempos de entrega y despliegues a producción a la mitad. Colaboré con Mozilla y Telefónica para desarrollar la primera app para televisores con FirefoxOS.",
+      "highlights": [
+        "Started the company"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "LABORATORIO DE SISTEMAS DE INFORMACIÓN E INCLUSIÓN DIGITAL - LUDOLAB",
+      "position": "Servicio comunitario",
+      "url": "https://organization.com/",
+      "startDate": "2012-01-01",
+      "endDate": "2013-01-01",
+      "summary": "Proyecto de Inclusión Digital: Democratización del acceso a las TIC para grupos de atención prioritaria"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Escuela Politécnica Nacional",
+      "url": "https://www.epn.edu.ec/",
+      "area": "Ingeniería de Software",
+      "studyType": "Grado",
+      "startDate": "2020-10-20",
+      "endDate": null,
+      "courses": [
+        "DB1101 - Basic SQL"
+      ]
+    },
+    {
+      "institution": "Jacinto Collahuazo",
+      "url": "https://www.epn.edu.ec/",
+      "area": "Bachillerato Técnico en Informática",
+      "studyType": "Informática",
+      "startDate": "2017-01-01",
+      "endDate": "2020-07-27",
+      "courses": []
+    }
+  ],
+  "awards": [
+    {
+      "title": "Award",
+      "date": "2014-11-01",
+      "awarder": "Company",
+      "summary": "There is no spoon."
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Certificate",
+      "date": "2021-11-07",
+      "issuer": "Company",
+      "url": "https://certificate.com"
+    }
+  ],
+  "publications": [
+    {
+      "name": "Publication",
+      "publisher": "Company",
+      "releaseDate": "2014-10-01",
+      "url": "https://publication.com",
+      "summary": "Description…"
+    }
+  ],
+  "skills": [
+    {
+      "name": "HTML",
+      "level": "Master",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "Web Development"
+      ]
+    },
+    {
+      "name": "CSS",
+      "level": "Master",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "Responsive",
+        "Web Development"
+      ]
+    },
+    {
+      "name": "JavaScript",
+      "level": "Master",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "Backend",
+        "Fullstack",
+        "Web Development"
+      ]
+    },
+    {
+      "name": "Java",
+      "level": "Master",
+      "keywords": [
+        "Backend",
+        "Fullstack",
+        "Web Development"
+      ]
+    },
+    {
+      "name": "Python",
+      "level": "Master",
+      "keywords": [
+        "Backend",
+        "Machine Learning",
+        "Data Analysis"
+      ]
+    },
+    {
+      "name": "SQLServer",
+      "level": "Avanzado",
+      "keywords": [
+        "Bases de Datos",
+        "SQL",
+        "Almacenamiento de Datos",
+        "Backend"
+      ]
+    },
+    {
+      "name": "MySQL",
+      "level": "Avanzado",
+      "keywords": [
+        "Bases de Datos",
+        "SQL",
+        "Almacenamiento de Datos",
+        "Backend"
+      ]
+    },
+    {
+      "name": "Git",
+      "level": "Avanzado",
+      "keywords": [
+        "Control de Versiones",
+        "Colaboración",
+        "Código Fuente"
+      ]
+    },
+    {
+      "name": "GitHub",
+      "level": "Avanzado",
+      "keywords": [
+        "Control de Versiones",
+        "Colaboración",
+        "Código Fuente",
+        "Git"
+      ]
+    },
+    {
+      "name": "StarUML",
+      "level": "Master",
+      "keywords": [
+        "Designing",
+        "Software",
+        "Diagrams"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Español",
+      "fluency": "Native"
+    },
+    {
+      "language": "Inglés",
+      "fluency": "Avanzado"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Wildlife",
+      "keywords": [
+        "Ferrets",
+        "Unicorns"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Jane Doe",
+      "reference": "Reference…"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Mi Chaucherita",
+      "isActive": true,
+      "description": "Aplicación Web para la gestión contable de finanzas personales usando la arquitectura MVC y usando la Metodología PUD",
+      "highlights": [
+        "Java Web",
+        "MVC",
+        "CRUD",
+        "Apache TomCat",
+        "MySQL"
+      ],
+      "url": "",
+      "github": "https://github.com/jluSalazar/Mi-Chaucherita.git"
+    },
+    {
+      "name": "Api-Yoga",
+      "isActive": true,
+      "description": "Software que permite a los usuarios explorar y aprender sobre las diversas posturas de yoga. Facilita la búsqueda y comprensión de las posturas de yoga.",
+      "highlights": [
+        "Java Web",
+        "MVC",
+        "CRUD",
+        "Apache TomCat",
+        "MySQL"
+      ],
+      "url": "",
+      "github": "https://github.com/Ketif2/Api-yoga"
+    },
+    {
+      "name": "SPA-HomePage",
+      "isActive": true,
+      "description": "Landing Page desarrollada para un centro de SPA siguiendo un documento de especificaciones.",
+      "highlights": [
+        "HTML",
+        "CSS"
+      ],
+      "url": "",
+      "github": "https://github.com/jluSalazar/SPA-HomePage.git"
+    }
+  ]
+}
